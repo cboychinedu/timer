@@ -7,3 +7,30 @@ button {
     padding: 10px 20px; 
     font-size: 1em;
 }
+.start {
+    width: 129px;
+    border-radius: 7px;
+    border: navajowhite;
+    background: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.pause {
+    width: 129px;
+    border-radius: 7px;
+    border: navajowhite;
+    background: rgb(32 111 36);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.stop {
+    width: 129px;
+    border-radius: 7px;
+    border: navajowhite;
+    background: rgb(145, 16, 16);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
